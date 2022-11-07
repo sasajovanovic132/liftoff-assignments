@@ -6,13 +6,34 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ## Submission Instructions
 
-### Overview
-Include overview here
+### Overview "Gym Manager"
+
+Web application that manages appointments between fitness trainers and clients.
+Each appointmaint will assign client with fitness trainer and work-out based on client's informations.
+User will have access to informations of all clients and trainers and full schedule of all appointments.
+Initially it will be dedicated to a Gym Manager with an idea of extending it to Clients and Fitness Trainers.
+
+4 entities:
+1.Clients
+2.Fitness Trainers
+3.Appointments
+4.Work Out plans
+
 ### Features
-Include Features here
+- Log In page. User will be requared to log in in order to access the web page.
+- Create Appointment. User will be able to make appointment for the client and store it in database.
+- Schedule. User will have access to full schedule and ability to sort it in different ways.
+
+
 ### Technologies
-Include Technologies here
+-Java
+-Spring Boot
+-MySQL
+-Hibernate
+-Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Authentications and Authorization, Spring Security,Exctracting SQL queries with Java and Spring Boot, Bootstrap
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/mUvkcOaO/lift-off-gym
