@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Wires stored in Wireframes folder
+Wireframes stored in Wireframes folder
 
 ### Project Tracker
 
